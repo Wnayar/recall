@@ -1,0 +1,14 @@
+# personal notes corpus and generated data (never commit)
+notes/
+corpus/
+data/
+*.sqlite
+*.db
+chunks.json
+
+# secrets
+.env
+
+# build artifacts
+bin/
+recall
